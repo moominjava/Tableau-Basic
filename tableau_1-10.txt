@@ -1,0 +1,23 @@
+1. tableau vs excel
+
+tableau- 데이터시각화 도구
+	- 그래프 중심
+	- 데이터 원본 편집 불가
+	- 측정값 집계(sum/ avg/ min/ max)
+
+
+excel - 데이터 원본 그 자체 or 스프레드시트
+	- 테이블, 표 중심
+	- 데이터 원본 편집 가능
+	- 측정값 있는 그대로(row lavel에서)
+
+
+2. aggregation(집계) intableau
+tableau - 이용자가 데이터를 어느 수준의 depth, detail, granularity로 썰어서 볼지 결정하여야 한다
+	- 전체 데이터셋을 한줄 한줄로 나누어줄 수 있는 필드 또는 필드의 조합을 찾아야 한다.
+	- 어떤 데이터가 집계 되는지 설명하기 위해 한줄 한줄의 데이터를 이해할 필요가 있다.
+
+
+3. data investigation in tableau
+데이터를 사용하기 전에 데이터를 탐색하는 단계
+1. 데이터셋은 몇개의 행과 몇개의 열로 구성되어 있나
